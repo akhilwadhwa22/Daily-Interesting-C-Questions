@@ -18,7 +18,5 @@ and follow
 
 ## #letscwithAkhilW 
 
-on LinkedIn.
-
 # Happy learning!!
 
