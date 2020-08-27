@@ -1,0 +1,4 @@
+Assuming that the main memory is byte-addressable, the address of a[40][50] will be?
+
+Case 1: Starting memory address for the array: 0
+Case 2: Starting memory address for the array:100
