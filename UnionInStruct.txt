@@ -1,0 +1,11 @@
+
+struct { 
+    short s[5];
+    union { 
+         float y; 
+         long z; 
+    }; 
+};
+
+Assume that objects of the type short, float and long occupy 2 bytes, 4 bytes and 8 bytes, respectively. 
+The memory requirement for variable t, ignoring alignment considerations, is
