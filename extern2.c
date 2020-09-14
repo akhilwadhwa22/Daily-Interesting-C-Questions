@@ -3,7 +3,6 @@
 
 extern int x;
 
-
 void foo(){
 	int x = 10;
     printf("%p\n", &x);
