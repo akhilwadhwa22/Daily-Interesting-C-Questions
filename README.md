@@ -12,7 +12,13 @@ Then came the idea to why not post these questions on an open platform and help 
 
 ### To check discussions on each question, visit :
 
-# https://www.linkedin.com/in/akhil-wadhwa/
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akhil-wadhwa/)&nbsp;
+
+### Or Contact me:
+
+[<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:akhil.wadhwa@nyu.edu)
+
+
 
 and follow
 
@@ -20,3 +26,4 @@ and follow
 
 # Happy learning!!
 
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/akhil-wadhwa/)
