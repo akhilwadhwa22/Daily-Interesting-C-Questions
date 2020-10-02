@@ -1,7 +1,5 @@
 # Daily-Interesting-C-Questions
-.c files for the questions posted on my LinkedIn Profile
-Link to the Profile: 
-
+.c files for the questions posted on my LinkedIn Profile.
 
 ## C is a funny language!
 
